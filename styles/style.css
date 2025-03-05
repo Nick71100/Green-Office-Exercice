@@ -78,6 +78,7 @@ h3::before{
     content:'\f18c';
     font-family: FontAwesome;
     color: #b8cb21;
+    margin-right: 10px;
 }
 
 main img {
